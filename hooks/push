@@ -1,3 +1,0 @@
-#!/bin/bash
-
-echo "push is disabled at DockerHub until they support Windows Containers"
